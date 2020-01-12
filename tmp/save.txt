@@ -1,0 +1,65 @@
+[H[2JTest si fichier [36m/tmp/save[0m existe
+[35;4mDebut de la copie...[0m
+[2K Copy of :
+[A[33m		42FileChecker[0m
+[A[32;5m		42FileChecker[0m
+[2K Copy of :
+[A[33m		Autosave[0m
+[A[32;5m		Autosave[0m
+[2K Copy of :
+[A[33m		Crypteur_base_Brainfuck[0m
+[A[32;5m		Crypteur_base_Brainfuck[0m
+[2K Copy of :
+[A[33m		DGSE[0m
+[A[32;5m		DGSE[0m
+[2K Copy of :
+[A[33m		DirToCpy.txt[0m
+[A[32;5m		DirToCpy.txt[0m
+[2K Copy of :
+[A[33m		Leo_Github[0m
+[A[32;5m		Leo_Github[0m
+[2K Copy of :
+[A[33m		MyBash[0m
+[A[32;5m		MyBash[0m
+[2K Copy of :
+[A[33m		Python[0m
+[A[32;5m		Python[0m
+[2K Copy of :
+[A[33m		cursus_general[0m
+[A[32;5m		cursus_general[0m
+[2K Copy of :
+[A[33m		gitest[0m
+[A[32;5m		gitest[0m
+[2K Copy of :
+[A[33m		old-conf-vim.tar[0m
+[A[32;5m		old-conf-vim.tar[0m
+[2K Copy of :
+[A[33m		test_generaux[0m
+[A[32;5m		test_generaux[0m
+[2K Copy of :
+[A[33m		vimsublime.sh[0m
+[A[32;5m		vimsublime.sh[0m
+[A[2K[32;5m DONE[0m
+[35;4mEnvoi dans la Backup...[0m
+[33m
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+	modified:   42FileChecker (modified content)
+	modified:   DGSE/hex2ascii (untracked content)
+	modified:   Leo_Github/GitHub_Piscine_reloaded (modified content)
+	modified:   Leo_Github/Test_generaux (modified content)
+	modified:   cursus_general/Casser_duGNL/gnl (untracked content)
+	modified:   cursus_general/Libft (untracked content)
+	modified:   cursus_general/fillit/tetrigen (untracked content)
+	modified:   cursus_general/libft-test (untracked content)
+	modified:   cursus_general/libft-unit-test (modified content, untracked content)
+	modified:   cursus_general/libft_testVF (untracked content)
+	modified:   cursus_general/moulitest (modified content)
+	modified:   cursus_general/piscine_reloaded (modified content, untracked content)
+	modified:   gitest/lachille2 (modified content, untracked content)
+
+no changes added to commit
+[0m
+[32;5mSauvegarde termine[0m

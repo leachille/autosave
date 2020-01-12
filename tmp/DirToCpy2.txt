@@ -1,0 +1,16 @@
+42FileChecker
+Autosave
+Crypteur_base_Brainfuck
+DGSE
+DirToCpy.txt
+Leo_Github
+MyBash
+Python
+TEST
+cursus_general
+gitest
+old-conf-vim.tar
+piscine
+test_generaux
+test_git
+vimsublime.sh
